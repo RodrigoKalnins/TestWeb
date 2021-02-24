@@ -1,0 +1,18 @@
+h3{
+    color:blue;
+}
+body{
+    background-color:lightblue;
+    font-family: Arial;
+}
+caption{
+    font-weight: 700;
+    border: 2px solid black;
+}
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.center{
+    text-align: center;
+}
