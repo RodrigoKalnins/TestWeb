@@ -2,7 +2,11 @@ h3{
     color:blue;
 }
 body{
-    background-color:lightblue;
+    background-image:url("../images/background.jpg");
+    height:100%;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
     font-family: Arial;
 }
 caption{
